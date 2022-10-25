@@ -1,2 +1,2 @@
-# consumoDeAPIS
-TP N°22 Consumo de Apis
+# TP N°22 Consumo de APIs
+- BLANEZ, Mariana
